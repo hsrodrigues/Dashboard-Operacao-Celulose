@@ -5,7 +5,7 @@ Este projeto é uma solução ponta a ponta (End-to-End) de Engenharia e Anális
 ## 🎯 O Problema de Negócio
 No setor de papel e celulose, o aluguel de um navio cargueiro é cobrado por dia. Se o navio atracar no porto e a carga não estiver pronta porque o fluxo de trens e caminhões atrasou, a empresa paga multas altíssimas de *Demurrage* (sobre-estadia). 
 
-O objetivo deste projeto foi criar um pipeline de dados e um painel tático para monitorar o risco de lotação do armazém da fábrica e garantir que a meta em toneladas para liberar o próximo navio seja atingida dentro do prazo.
+O objetivo deste projeto foi criar um pipeline de dados e um painel tático para monitorar o risco de lotação do armazém do fábrica e garantir que a meta em toneladas para liberar o próximo navio seja atingida dentro do prazo.
 
 ## 🛠️ Arquitetura e Tecnologias Utilizadas
 * **Python (Pandas, NumPy):** Criação de dados sintéticos para simular 90 dias de produção contínua e movimentação logística.
